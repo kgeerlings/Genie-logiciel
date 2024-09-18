@@ -1,0 +1,15 @@
+/Users/kami/Genie_logiciel/TP_C#/obj/Debug/net6.0/TP_C#.csproj.AssemblyReference.cache
+/Users/kami/Genie_logiciel/TP_C#/obj/Debug/net6.0/TP_C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kami/Genie_logiciel/TP_C#/obj/Debug/net6.0/TP_C#.AssemblyInfoInputs.cache
+/Users/kami/Genie_logiciel/TP_C#/obj/Debug/net6.0/TP_C#.AssemblyInfo.cs
+/Users/kami/Genie_logiciel/TP_C#/obj/Debug/net6.0/TP_C#.csproj.CoreCompileInputs.cache
+/Users/kami/Genie_logiciel/TP_C#/bin/Debug/net6.0/TP_C#
+/Users/kami/Genie_logiciel/TP_C#/bin/Debug/net6.0/TP_C#.deps.json
+/Users/kami/Genie_logiciel/TP_C#/bin/Debug/net6.0/TP_C#.runtimeconfig.json
+/Users/kami/Genie_logiciel/TP_C#/bin/Debug/net6.0/TP_C#.dll
+/Users/kami/Genie_logiciel/TP_C#/bin/Debug/net6.0/TP_C#.pdb
+/Users/kami/Genie_logiciel/TP_C#/obj/Debug/net6.0/TP_C#.dll
+/Users/kami/Genie_logiciel/TP_C#/obj/Debug/net6.0/refint/TP_C#.dll
+/Users/kami/Genie_logiciel/TP_C#/obj/Debug/net6.0/TP_C#.pdb
+/Users/kami/Genie_logiciel/TP_C#/obj/Debug/net6.0/TP_C#.genruntimeconfig.cache
+/Users/kami/Genie_logiciel/TP_C#/obj/Debug/net6.0/ref/TP_C#.dll
